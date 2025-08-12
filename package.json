@@ -1,0 +1,34 @@
+{
+  "name": "blockchain-watcher",
+  "version": "1.0.0",
+  "description": "multi-chain, real-time listener for **new token listings with liquidity** on popular DEXs (Uniswap, PancakeSwap, QuickSwap, etc.).  ",
+  "main": "h **real** tradable tokens the moment liquidity is added — filtering out fake tokens with no market.",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node watcher.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mglorious/blockchain-watcher.git"
+  },
+  "keywords": [
+    "blockchain",
+    "web3",
+    "new",
+    "listing",
+    "token",
+    "dexes"
+  ],
+  "author": "mglorious",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mglorious/blockchain-watcher/issues"
+  },
+  "homepage": "https://github.com/mglorious/blockchain-watcher#readme",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "dotenv": "^17.2.1",
+    "ethers": "^6.15.0"
+  }
+}
