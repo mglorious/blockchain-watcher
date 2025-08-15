@@ -121,5 +121,5 @@ You can:
 
 ---
 
-**Author:** [Your Name](https://github.com/mglorious)  
+**Author:** [MGlorious](https://github.com/mglorious)  
 **Repository:** [blockchain-watcher](https://github.com/mglorious/blockchain-watcher)
